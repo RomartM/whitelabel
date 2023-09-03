@@ -1,3 +1,24 @@
 li.dropdown.dropdown.dropdown-help.dropdown-mobile {
 	display: none!important;
 }
+
+header.navbar #navbar-breadcrumbs a, header.navbar .navbar-nav .nav-link {
+    color: white;
+    fill: #ffffff;
+}
+
+header.navbar svg {
+    stroke: #ffffff;
+    fill: #ffffff;
+}
+
+
+img.app-logo {
+    width: 40px !important;
+    max-height: 300px !important;
+}
+
+#navbar-breadcrumbs a:before {
+    filter: invert(1);
+}
+
