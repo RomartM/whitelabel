@@ -307,3 +307,7 @@ span.sidebar-toggle-btn {
 header.navbar.navbar-expand.sticky-top {
     height: 47px !important;
 }
+
+.page-content {
+    margin-top: 18px;
+}
