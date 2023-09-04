@@ -308,6 +308,36 @@ header.navbar.navbar-expand.sticky-top {
     height: 47px !important;
 }
 
-.page-content {
-    margin-top: 18px;
+.container {
+    max-width: 1990px;
+}
+
+.col-lg-2.layout-side-section {
+    max-width: 315px !important;
+    padding: 0 !important;
+}
+
+[data-page-route=Workspaces] .standard-sidebar-item .sidebar-item-label {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.desk-sidebar .standard-sidebar-item svg {
+    margin-top: -3px;
+}
+
+.desk-sidebar .standard-sidebar-item {
+    border-radius: 0px !important;
+    padding: 6px;
+}
+
+.desk-sidebar .standard-sidebar-item.selected {
+    background-color: #011c38;
+    color: white !important;
+}
+
+.desk-sidebar .standard-sidebar-item.selected * {
+    color: white;
+    fill: white;
+    stroke: white;
 }
