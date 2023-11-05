@@ -257,9 +257,9 @@ img.app-logo {
     background-color: #ffffff00 !important;
 }
 
-.input-group.search-bar.text-muted {
-    display: none !important;
-}
+/*.input-group.search-bar.text-muted {*/
+/*    display: none !important;*/
+/*}*/
 
 span.sidebar-toggle-btn {
     display: none !important;
