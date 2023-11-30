@@ -1,0 +1,13 @@
+header.navbar.navbar-expand.sticky-top {
+    background-color: #0D0E42;
+}
+
+img.app-logo {
+    width: 151px !important;
+    max-height: 100%;
+}
+
+.col-lg-2.layout-side-section {
+    flex: 0 0 23.666667%;
+    max-width: 23.666667%;
+}
